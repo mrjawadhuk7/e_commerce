@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Iphone 11",
+        "price": "40000",
+        "description":"Iphone 11 is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"produ ct_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 11 pro max",
+        "price": "119999",
+        "description":"Iphone 11 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 12  5G",
+        "price": "70000",
+        "description":"Iphone 12  5G is a powerfull device in ,this unbreakable mobile in the world and 128GB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 12 pro max 5G",
+        "price": "129999",
+        "description":"Iphone 12 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 13 pro max 5G",
+        "price": "139999",
+        "description":"Iphone 13 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 14 pro max 5G",
+        "price": "149999",
+        "description":"Iphone 14 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 15 pro max 5G",
+        "price": "159999",
+        "description":"Iphone 15 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 16 pro max 5G",
+        "price": "169999",
+        "description":"Iphone 16 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"product_87759895.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    }
+]
