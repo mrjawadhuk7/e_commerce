@@ -1,4 +1,5 @@
 [
+
     {
         "name": "Iphone 11",
         "price": "40000",
@@ -6,7 +7,10 @@
         "ratings":10,
         "images":[
             {
-                "image":"produ ct_87759895.jpg"
+                "image":"/images/products/iphone11-1.jpg"
+            },
+            {
+                "image":"/images/products/iphone11.jpg"
             }
         ],
         "category":"mobile phones",
@@ -21,14 +25,30 @@
         "description":"Iphone 11 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
         "ratings":10,
         "images":[
-            {
-                "image":"product_87759895.jpg"
+           {
+                "image":"/images/products/iphone11promax.jpg"
             }
         ],
         "category":"mobile phones",
         "seller":"Flipcart",
         "stock":5,
-        "numOfReviews":999,
+        "numOfReviews":12,
+        "reviews":[]
+    },
+    {
+        "name": "Samsung S22 Ultra",
+        "price": "119999",
+        "description":" s22 ultra camera 120x  zoom the mobile powerfull mobile 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+           {
+                "image":"/images/products/s22ultra.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":12,
         "reviews":[]
     },
     {
@@ -38,7 +58,7 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone12.jpg"
             }
         ],
         "category":"mobile phones",
@@ -54,7 +74,7 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone12promax.jpg"
             }
         ],
         "category":"mobile phones",
@@ -70,7 +90,23 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone13promax.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Mi 11 ultra",
+        "price": "80000",
+        "description":"mi 11 ultra is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"/images/products/mi11ultra.jpg"
             }
         ],
         "category":"mobile phones",
@@ -86,7 +122,7 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone14promax.jpg"
             }
         ],
         "category":"mobile phones",
@@ -102,7 +138,7 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone15promax.jpg"
             }
         ],
         "category":"mobile phones",
@@ -118,7 +154,58 @@
         "ratings":10,
         "images":[
             {
-                "image":"product_87759895.jpg"
+                "image":"/images/products/iphone16promax.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+        {
+        "name": "Iphone 11",
+        "price": "40000",
+        "description":"Iphone 11 is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"/images/products/vijay.jpg"
+            },
+            {
+                "image":"/images/products/Sachein.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":999,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 11 pro max",
+        "price": "119999",
+        "description":"Iphone 11 pro max 5G is a powerfull device in ,this unbreakable mobile in the world and 1TB storage",
+        "ratings":10,
+        "images":[
+           {
+                "image":"/images/products/Sachein.jpg"
+            }
+        ],
+        "category":"mobile phones",
+        "seller":"Flipcart",
+        "stock":5,
+        "numOfReviews":12,
+        "reviews":[]
+    },
+    {
+        "name": "Iphone 12  5G",
+        "price": "70000",
+        "description":"Iphone 12  5G is a powerfull device in ,this unbreakable mobile in the world and 128GB storage",
+        "ratings":10,
+        "images":[
+            {
+                "image":"/images/products/itachi2.jpg"
             }
         ],
         "category":"mobile phones",

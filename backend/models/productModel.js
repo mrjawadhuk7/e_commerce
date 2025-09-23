@@ -1,6 +1,7 @@
 //productSchema -->idhu vandhu db and client connecting pannum
 
 const mongoose=require('mongoose');
+const User=require("../models/userModel");
                           //schema create pannittu model kku ulla kodukkunum
 const productSchema=new mongoose.Schema({
     name:{
@@ -68,22 +69,24 @@ numOfReviews:{    //reviews count kku
 },
 reviews:[        //reviews kku
     {
-        name:{
-        type:String,
-        required:true,
-        },
+        user:mongoose.Schema.Types.ObjectId,    
         rating:{
             type:String,
             required:true
         },
-        command:{
+        comment:{
             type:String,
             required:true
         }
     },
 
 
-],
+], 
+//user enkira field
+user : {   //type vandhu mongodb object id yai kondu iruka poguthu
+    type :  mongoose.Schema.Types.ObjectId,
+    
+},
 createdAt:{  //-->indha product eppa create achinu thagavalai kondu irukkum
     type:Date,
     default:Date.now(),  //->current date eduthukkum
@@ -92,3 +95,33 @@ createdAt:{  //-->indha product eppa create achinu thagavalai kondu irukkum
 })      //->create pannadhai model kku kodukkuren 
 let schema=mongoose.model('product',productSchema)
 module.exports=schema;     //product -->collection --singular <>plural
+
+
+// Host
+
+// sandbox.smtp.mailtrap.io
+// Port
+
+// 25, 465, 587 or 2525
+// Username
+
+// c9708006c6d58c
+// Password
+
+// ****032a
+// Auth
+
+// PLAIN, LOGIN and CRAM-MD5
+// TLS
+
+// Optional (STARTTLS on all ports)
+
+// // Looking to send emails in production? Check out our Email API/SMTP product!
+// var transport = nodemailer.createTransport({
+//   host: "sandbox.smtp.mailtrap.io",
+//   port: 2525,
+//   auth: {
+//     user: "c9708006c6d58c",
+//     pass: "3c9ccda285032a"
+//   }
+// });
